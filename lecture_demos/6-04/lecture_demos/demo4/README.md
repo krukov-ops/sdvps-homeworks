@@ -38,10 +38,17 @@
 
 
 ![alt text] (https://github.com/krukov-ops/sdvps-homeworks/blob/61bc89d88fb916fcd57d5d967ca064c85e76c0da/lecture_demos/6-04/lecture_demos/demo4/docker-compose.yml)...
-....
-....
-....
-```
+
+
+Пример вставки изображения:
+
+### Задание 1
+
+Скриншот-1 к заданию 1:
+![Скриншот-1](https://github.com/krukov-ops/sdvps-homeworks/blob/61bc89d88fb916fcd57d5d967ca064c85e76c0da/lecture_demos/6-04/lecture_demos/demo4/docker-compose.yml)
+
+
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`

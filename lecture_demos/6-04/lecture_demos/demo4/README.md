@@ -19,7 +19,7 @@
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
-
+2. [Docker-compose](https://github.com/krukov-ops/sdvps-homeworks/blob/61bc89d88fb916fcd57d5d967ca064c85e76c0da/lecture_demos/6-04/lecture_demos/demo4/docker-compose.yml)
 ---
 
 ### Задание 1
@@ -47,7 +47,7 @@
 Скриншот-1 к заданию 1:
 ![Скриншот-1](https://github.com/krukov-ops/sdvps-homeworks/blob/61bc89d88fb916fcd57d5d967ca064c85e76c0da/lecture_demos/6-04/lecture_demos/demo4/docker-compose.yml)
 
-
+1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
 
 `При необходимости прикрепитe сюда скриншоты
